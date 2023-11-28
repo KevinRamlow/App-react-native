@@ -13,7 +13,6 @@ const Home = () => {
   const router = useRouter()
   const [searchTerm, setSearchTerm] = useState('')
 
-
   return (
     <SafeAreaView style={{ felx: 1, backgroundColor: COLORS.lightWhite }}>
       <Header />
@@ -29,10 +28,8 @@ const Home = () => {
           <Popularjobs />
           <Nearbyjobs />
         </View>
-      </ScrollView>
-      
-    </SafeAreaView>
-    
+      </ScrollView>     
+    </SafeAreaView>  
   )
 }
 
