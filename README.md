@@ -1,14 +1,3 @@
-# Expo Router Example
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Aplicativo desenvolvido em JavaScript, utilizando React-Native. O app consiste em ajudar o usúario a encontrar empregos mais populares, e próximos, apresentando dados
+sobre o trabalho, e um link para se cadastrar na vaga. O intuito desse app foi praticar minhas habilidades com clean-code e a estrutura hexagonal *Porters and adapters) com JS e React, tendo em vista que foi um projeto de um curso
+online estrangeiro que fiz! 
